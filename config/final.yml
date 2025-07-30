@@ -3,6 +3,6 @@ final_name: networking
 blobstore:
   provider: s3
   options:
-    bucket_name: s3selfcare-networking-release
+    bucket_name: orange-networking-release
     region: eu
     host: storage.googleapis.com
